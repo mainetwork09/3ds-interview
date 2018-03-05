@@ -42,8 +42,11 @@
         </nav>
 
         <div class="container">
+            <div id="loading-text">Loading...</div> 
             <div id="content"></div>
         </div>
+
+
     
     
     <script src="{{ asset('js/jquery.min.js') }}"></script>
