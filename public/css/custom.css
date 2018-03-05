@@ -1,0 +1,28 @@
+.item {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.item .title {
+    width: 100%;
+    top: 0;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 12px;
+}
+
+.text {
+    color: white;
+    font-size: 20px;
+    position: relative;
+    text-align: left;
+}
+
+.item .v-thumbnail {
+    width: 100%;
+    height: auto;
+}
+
+.navbar-toggle {
+    border-radius: 0 !important;
+}
